@@ -14,7 +14,6 @@ A real-time chat application built using Socket.io, Node.js, and vanilla HTML, C
 
 ## 📂 Project Structure
 
-'''bash
 chat-app/
 │── public/ # Frontend files (HTML, CSS, JS)
 │ ├── index.html # Main chat UI
@@ -26,28 +25,22 @@ chat-app/
 │
 │── package.json # Dependencies &amp; scripts
 │── README.md # Project documentation
-'''
 
 ## 🛠 Installation &amp; Setup
 
 ### 1️⃣ Clone the Repository
 
-    '''bash
     git clone https://github.com/your-username/chat-app.git
     cd chat-app
-    '''
 
 ### 2️⃣ Install Dependencies
-'''bash
+
 npm install
-'''
 
 ### 3️⃣ Run the Server
 
 Start the backend server:
-'''bash
 node server/server.js
-'''
 
 ### 4️⃣ Open the App
 
