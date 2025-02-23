@@ -15,16 +15,18 @@ A real-time chat application built using Socket.io, Node.js, and vanilla HTML, C
 ## 📂 Project Structure
 
 chat-app/
-│── public/ # Frontend files (HTML, CSS, JS)
-│ ├── index.html # Main chat UI
-│ ├── styles.css # Styling
-│ ├── script.js # Client-side socket logic
-│
-│── server/ # Backend server files
-│ ├── server.js # Node.js + Express + Socket.io backend
-│
-│── package.json # Dependencies &amp; scripts
-│── README.md # Project documentation
+#|
+    │── public/ # Frontend files (HTML, CSS, JS)
+    │   ├── index.html # Main chat UI
+    │   ├── styles.css # Styling
+    │   ├── script.js # Client-side socket logic
+    │
+    │── server/ # Backend server files
+    │   ├── server.js # Node.js + Express + Socket.io backend
+    │
+    │── package.json # Dependencies &amp; scripts
+    │── README.md # Project documentation
+
 
 ## 🛠 Installation &amp; Setup
 
