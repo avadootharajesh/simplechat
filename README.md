@@ -73,8 +73,8 @@ This project is licensed under the **MIT License**. 📝
 ## 📧 Contact
 
 If you have any questions or feedback, please don't hesitate to reach out to me: 
-- [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/avadotharajesh)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avadotharajesh/)
+- [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/avadootharajesh)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avadootharajesh/)
 - [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avadootha.rajesh.netha@gmail.com)
 
 ---
